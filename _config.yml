@@ -1,5 +1,4 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Coding Hacks
+description: The programmer got stuck in the shower because the instructions on the shampoo bottle said Lather, Rinse, Repeat
+google_analytics: true
 theme: jekyll-theme-hacker
