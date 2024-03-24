@@ -2,3 +2,29 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+.navbar {
+    background-color: #222;
+    padding: 10px;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .navbar-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  .navbar-link:hover {
+    color: #ff0;
+  }
