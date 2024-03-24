@@ -1,9 +1,32 @@
 ---
 layout: default
+title: About Me
 ---
 
-## Welcome to another page
+# About Me
 
-_yay_
+I'm a passionate Python programmer and Linux enthusiast. With a strong background in software development and a love for open-source technologies, I enjoy exploring the vast possibilities that Python and Linux offer.
 
-[back](./)
+## Skills
+
+- Python programming
+- Linux administration
+- Shell scripting
+- Web development (HTML, CSS, JavaScript)
+- Version control (Git)
+
+## Experience
+
+I have been working with Python for over 5 years, developing a wide range of applications and scripts. I am well-versed in building web applications using popular frameworks like Django and Flask. Additionally, I have experience in Linux server administration, managing deployments, and ensuring the security and performance of Linux-based systems.
+
+## Projects
+
+- **Project 1:** Developed a web application using Django to automate a data processing pipeline.
+- **Project 2:** Contributed to an open-source Python library for data analysis and visualization.
+- **Project 3:** Created a shell script to automate Linux system maintenance tasks.
+
+## Interests
+
+Apart from programming and Linux, I am also interested in artificial intelligence, machine learning, and data science. I constantly strive to expand my knowledge and keep up with the latest trends and technologies in these fields.
+
+Feel free to [contact me](/contact) if you have any questions or would like to collaborate on a project.
