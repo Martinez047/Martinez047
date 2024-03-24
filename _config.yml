@@ -2,11 +2,3 @@ title: UnixFriends
 description: UNIX is user friendly. It’s just very particular about who its friends are.
 google_analytics: true
 theme: jekyll-theme-hacker
-author:
-  name: [Martin Chikadaya]
-  email: [chikadayamartin@outlook.com]
-  url: [Martinez.github.io]
-
-paginate: [Number of posts in one paginated section (default: 3)]
-owner: [Martin Chikadaya]
-year: [Current Year]
