@@ -1,12 +1,12 @@
-title: Leaf Blog
-iconURL: assets/default-icon.png
+title: ./Coding Hacks
+##iconURL: assets/default-icon.png
 theme: jekyll-theme-hacker
 
 # for a clean URL
 permalink: :slug
 
 social:
-  github: Martinez/github.com
+  github: https://github.com/Martinez/
 
 plugins:
  - jekyll-feed
