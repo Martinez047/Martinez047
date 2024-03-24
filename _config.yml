@@ -1,17 +1,5 @@
-title: ./Coding Hacks
-##iconURL: assets/default-icon.png
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
-
-# for a clean URL
-permalink: :slug
-
-social:
-  github: https://github.com/Martinez/
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
-
-### comments & analytics
-hyvor_talk_website_id: 14
-google_analytics: UA-NNNNNNNN-N
