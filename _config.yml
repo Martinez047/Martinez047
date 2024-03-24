@@ -1,6 +1,6 @@
 title: Leaf Blog
 iconURL: assets/default-icon.png
-remote_theme: ekyll-theme-hacker
+theme: ekyll-theme-hacker
 
 # for a clean URL
 permalink: :slug
