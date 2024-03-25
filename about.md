@@ -9,7 +9,7 @@ I'm a passionate Programmer and Linux enthusiast. With a strong background in so
 
 ## Skills
 
-- Programming in [Python,Flutter,Php]
+- Programming in (Python,Flutter,Php)
 - Linux administration
 - Shell scripting
 - Web development (HTML, CSS, JavaScript)
