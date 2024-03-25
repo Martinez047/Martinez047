@@ -16,6 +16,6 @@ I'm a passionate programmer and Linux enthusiast. This is my corner of the inter
 
 ## Let's Connect
 
-I'm always excited to connect with fellow Programmers and Linux enthusiasts. Feel free to reach out to me via [whatsapp](+263713302120) 
+I'm always excited to connect with fellow Programmers and Linux enthusiasts. Feel free to reach out to me via [whatsapp](https://wa.me/+263713302120) 
 
 Happy coding and exploring the world of Programming and Linux!
