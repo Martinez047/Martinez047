@@ -3,6 +3,11 @@ layout: post
 title: "Setting Up Django: A Step-by-Step Guide"
 date: 2024-03-25
 categories: tutorials
+tags:
+    - Django
+    - Python
+    - Web Frameworks
+    
 ---
 
 In this tutorial, we'll walk through the process of setting up Django, a popular Python web framework. Let's get started!

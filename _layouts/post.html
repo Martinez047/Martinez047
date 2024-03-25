@@ -7,8 +7,19 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
-{{content}}
+{{ content }}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+{% if page.related_pages %}
+  <div class="related-pages">
+    <h2>Related Pages</h2>
+    <ul>
+      {% for related_page in page.related_pages %}
+        <li><a href="{{ related_page.url }}">{{ related_page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 {% endif %}
