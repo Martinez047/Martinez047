@@ -21,6 +21,6 @@ I have been working with Python Programming language for over 3 years, developin
 
 ## Interests
 
-Apart from programming and Linux, I am also interested in Electronic, PLC development, and data science. I constantly strive to expand my knowledge and keep up with the latest trends and technologies in these fields.
+Apart from programming and Linux, I am also interested in Electronics, PLC development, and data science. I constantly strive to expand my knowledge and keep up with the latest trends and technologies in these fields.
 
 Feel free to [contact me](/contact) if you have any questions or would like to collaborate on a project.
