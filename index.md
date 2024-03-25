@@ -16,6 +16,6 @@ I'm a passionate Python programmer and Linux enthusiast. This is my corner of th
 
 ## Let's Connect
 
-I'm always excited to connect with fellow Python programmers and Linux enthusiasts. Feel free to reach out to me via [email](chikadayamartin@outlook.com) 
+I'm always excited to connect with fellow Python programmers and Linux enthusiasts. Feel free to reach out to me via [whatsapp](chikadayamartin@outlook.com) 
 
 Happy coding and exploring the world of Python and Linux!
