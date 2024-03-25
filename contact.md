@@ -12,7 +12,7 @@ I would love to hear from you! If you have any questions, suggestions, or just w
 - **Name:** Martin Chikadaya
 - **Email:** chikadayamartin@outlook.com
 - **GitHub:** [github.com/Martinez047](https://github.com/Martinez047)
-- **Whatsapp** +263 713302120
+- **Whatsapp:** +263 713302120
 
 ## Get In Touch
 
