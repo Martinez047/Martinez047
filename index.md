@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Python and Linux World!
+# Welcome to My Programming and Linux World!
 
-I'm a passionate Python programmer and Linux enthusiast. This is my corner of the internet where I share my experiences, tips, and projects related to Python programming and Linux.
+I'm a passionate programmer and Linux enthusiast. This is my corner of the internet where I share my experiences, tips, and projects related to Programming and Linux.
 
 ## Latest Articles
 
@@ -16,6 +16,6 @@ I'm a passionate Python programmer and Linux enthusiast. This is my corner of th
 
 ## Let's Connect
 
-I'm always excited to connect with fellow Python programmers and Linux enthusiasts. Feel free to reach out to me via [whatsapp](chikadayamartin@outlook.com) 
+I'm always excited to connect with fellow Programmers and Linux enthusiasts. Feel free to reach out to me via [whatsapp](+263713302120) 
 
-Happy coding and exploring the world of Python and Linux!
+Happy coding and exploring the world of Programming and Linux!
