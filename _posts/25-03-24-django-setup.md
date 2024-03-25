@@ -11,20 +11,18 @@ In this tutorial, we'll walk through the process of setting up Django, a popular
 
 To begin, make sure you have Python installed on your system. You can download the latest version of Python from the official website. Once you have Python set up, open your terminal and run the following command to install Django:
 
-<div class="code-snippet">
+
 ```bash
 pip install Django
-</div>```
+```
 
 ## Step 2: Create a Django Project
 
 After installing Django, navigate to the directory where you want to create your project. Run the following command to create a new Django project:
 
-<div class="code-snippet">
 ```bash 
 django-admin startproject myproject
 ```
-</div>
 
 This will create a new directory named myproject with the necessary files and directories for your Django project.
 
@@ -32,10 +30,9 @@ This will create a new directory named myproject with the necessary files and di
 
 Now, move into the myproject directory by running cd myproject. To start a new Django app, execute the following command:
 
-<div class="code-snippet">
 ```bash
 python manage.py startapp myapp
-</div>```
+```
 
 This will create a directory named myapp inside your project directory, which contains the files for your app.
 
@@ -43,7 +40,6 @@ This will create a directory named myapp inside your project directory, which co
 
 Django supports various databases, including PostgreSQL, MySQL, and SQLite. Open the settings.py file inside the myproject directory and locate the DATABASES section. Update the configuration according to your preferred database.
 
-<div class="code-snippet">
 ``` python
 DATABASES = {
     'default': {
@@ -56,29 +52,23 @@ DATABASES = {
     }
 }
 ```
-</div>
 
 ## Step 5: Run Migrations
 
 Django uses migrations to manage database schema changes. To apply the initial migrations, run the following command:
 
-<div class="code-snippet">
 ```bash 
 python manage.py migrate
 ```
-</div>
 This will create the necessary tables in your database.
 
 ## Step 6: Run the Development Server
 
 You're almost done! Start the Django development server by executing the following command:
 
-<div class="code-snippet">
 ```bash
 python manage.py runserver
 ```
-</div>
-
 Open your web browser and visit http://localhost:8000 to see your Django app in action.
 
 That's it! You've successfully set up Django for your project. Happy coding!

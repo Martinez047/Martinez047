@@ -5,28 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!-- Include Prism.js and its CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/themes/prism.css" />
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/prism.js"></script>
     {% include head-custom.html %}
 
 {% seo %}
   </head>
-  <script>
-    function copyCode(button) {
-      const code = button.parentNode.querySelector('pre');
-      const text = code.innerText;
-    
-      navigator.clipboard.writeText(text).then(() => {
-        button.innerText = 'Copied!';
-        setTimeout(() => {
-          button.innerText = 'Copy';
-        }, 2000);
-      }).catch((error) => {
-        console.error('Failed to copy code:', error);
-      });
-    }
-    </script>
 
   <body>
     
