@@ -11,21 +11,12 @@ plugins:
 # Pagination settings (optional, if using jekyll-paginate)
 paginate: 5 # Number of posts per page
 
-# Custom navigation links (optional)
-nav_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-
-# Social media links (optional)
+# Social media links 
 social:
   - title: Whatsapp
     url: https://wa.me/+263713302120
   - title: GitHub
     url: https://github.com/Martinez047
 
-# Footer text (optional)
+# Footer text 
 footer_text: "Copyright © 2024 Chikadaya Martin"
