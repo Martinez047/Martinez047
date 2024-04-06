@@ -41,7 +41,7 @@ cd myapp/
 
 2. Create a new `templates/` directory inside the project folder and update `settings.py` folder:
 
-```bash
+```python
 TEMPLATES = [
     {
         ...
@@ -59,7 +59,7 @@ python -m pip install django-compressor
 
 4. Add `compressor` to the installed apps inside the `settings.py` file:
 
-```bash
+```python
 # config/settings.py
 
 INSTALLED_APPS = [
@@ -75,7 +75,7 @@ INSTALLED_APPS = [
 
 5. Configure the `compressor` inside the `settings.py` file:
 
-```bash
+```python
 COMPRESS_ROOT = BASE_DIR / 'static'
 
 COMPRESS_ENABLED = True
@@ -95,7 +95,7 @@ Later we will import the Tailwind CSS directives and use it as the source file f
 
 7. Create a new `views.py` file inside `myapp/` next to `urls.py` and add the following content:
 
-```bash
+```python
 from django.shortcuts import render
 
 def index(request):
@@ -265,7 +265,6 @@ Now that you have everything configured you can check out the components from Fl
 
 In this section I'll show you how you can search for and use the interactive components from Flowbite.
 
-Let's start by adding a <a href="{{< ref "components/navbar" >}}">Navbar component</a> inside the `_base.html` file:
 
 ```html
 <!-- templates/_base.html -->
@@ -340,7 +339,6 @@ This way you already have a functional and responsive navigation bar added to al
 
 Let's take a look how can added more content directly to the view templates, not just the base template.
 
-Check out one of the <a href="{{< ref "components/card" >}}">Card components</a> from Flowbite and add it to the `index.html` file:
 
 ```html
 <!-- templates/index.html -->
