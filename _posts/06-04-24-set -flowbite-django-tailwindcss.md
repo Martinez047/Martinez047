@@ -104,7 +104,7 @@ def index(request):
 
 8. Import the newly created view instance inside the `urls.py` file by adding the following code:
 
-```bash
+```python
 from .views import index
 
 urlpatterns = [
